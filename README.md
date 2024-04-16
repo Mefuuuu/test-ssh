@@ -1,1 +1,1 @@
-ssh 
+ssh edit my computer
